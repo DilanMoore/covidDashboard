@@ -1,5 +1,8 @@
 --- Welcome to the Covid Dashboard program ---
 
+Thank you for installing the CovidDashboard!
+-
+
 --------- (1) Getting Started ---------
 To run the program, please execute the file "user_interface_handler.py" using Python 3.9 or later. Please also read through the customisation information, making sure to
 follow the steps for setting up your personal API key (under [2 - Other] in the "Customisation" section of this readme).
@@ -60,11 +63,11 @@ updateList
 --------- (3) If Something Goes Wrong ---------
 
 If the dashboard stops working, please delete the program and re-install from the github, as in Further Information. 
-Those with python experience are welcome to look at the logFile.txt for any errors.
+If you're feeling brave, feel free to look at the logFile.txt for any errors.
 
 --------- (4) Further Information ---------
 
 News API: https://newsapi.org
 Covid API developers gude: https://coronavirus.data.gov.uk/details/developers-guide
-GitHub: 
+GitHub: https://github.com/DilanMoore/covidDashboard
     
