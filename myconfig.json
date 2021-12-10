@@ -1,0 +1,28 @@
+ {
+ 
+ "location" : "Exeter",
+ "location_type" : "ltla",
+ "nation_location" : "England",
+ "title": "Covid Dashboard",
+ "image": "covidLogo.jpg",
+ "apiKey": "apiKey=7355f35011ab4c9d8c309da19521ba8c",
+ "testVar": "thisIsATest",
+ 
+ "newsList" : [{
+ 
+ "title": "News!",
+ "content": "This is what an update notification looks like!"
+ 
+ }] ,
+    
+ "updateList" : [{
+   
+    "title": "Updates!",
+    "content": "This is what an update notification looks like!"
+    
+ }]
+ 
+ }
+
+ 
+    
